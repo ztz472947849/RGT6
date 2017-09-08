@@ -7,7 +7,6 @@ Designed in KiCAD, free to use in any application.
 # Pics
 
 PCB preview in KiCAD
-</br>
 <img src="http://image.ibb.co/mUrFmv/236.png" width=800>
 
 Actual PCB
